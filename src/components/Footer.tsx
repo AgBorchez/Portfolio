@@ -66,7 +66,7 @@ export function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
-                  className="rounded-lg border border-slate-300 dark:border-[#3e3e42] bg-white dark:bg-[#252526]/60 p-2.5 transition-colors hover:border-[#5382a1] dark:hover:border-slate-600 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-[#5382a1] dark:hover:text-blue-500"
+                  className="rounded-lg border border-slate-300 dark:border-[#3e3e42] bg-white dark:bg-[#252526]/60 p-2.5 transition-colors hover:border-[#5382a1] dark:hover:border-slate-600 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-[#0077B5] dark:hover:[#0077B5]"
                 >
                   <LinkedinIcon className="h-5 w-5" />
                 </a>

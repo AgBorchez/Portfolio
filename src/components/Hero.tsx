@@ -21,9 +21,10 @@ export function Hero() {
         </p>
       </div>
 
-      <p className="max-w-2xl text-base leading-relaxed text-slate-600 dark:text-slate-400 sm:text-lg">
-        Especializado en construir aplicaciones web robustas, escalables y orientadas a producto. 
-        Enfocado en arquitecturas limpias, rendimiento y buenas prácticas.
+      <p className="max-w-2xl leading-relaxed text-slate-600 dark:text-slate-400 text-sm min-[1600px]:text-lg">
+        Desarrollador Full Stack con formación universitaria en Ingeniería en Sistemas Informáticos (UAI),
+        mi pasión es el desarrollo de software.Cuento con experiencia práctica en la creación de 
+        aplicaciones y arquitectura de datos mediante proyectos personales. 
       </p>
 
       <div className="flex flex-wrap items-center gap-4 pt-2">

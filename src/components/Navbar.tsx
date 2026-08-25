@@ -69,7 +69,7 @@ export function Navbar() {
           </button>
 
           <a
-            href="/Agustin_Borchez_CV.pdf"
+            href="/CV Agustín Borchez.pdf"
             download
             className="inline-flex items-center gap-2 rounded-lg border border-slate-300 dark:border-[#3e3e42] bg-slate-100 dark:bg-[#252526] px-3.5 py-2 text-xs font-semibold text-slate-800 dark:text-white transition-colors hover:border-[#e76f00] dark:hover:border-purple-400"
           >
