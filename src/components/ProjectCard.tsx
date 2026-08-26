@@ -76,7 +76,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
             {title}
           </h3>
 
-          <p className="text-xs leading-relaxed text-slate-600 dark:text-slate-400 line-clamp-2 min-[1600px]:text-sm min-[1600px]:line-clamp-3">
+          <p className="text-xs leading-relaxed text-slate-600 dark:text-slate-400 min-[1600px]:text-sm min-[1600px]:line-clamp-3">
             {description}
           </p>
         </div>
