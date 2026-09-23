@@ -16,7 +16,7 @@ export const PROJECTS: Project[] = [
     tags: ["JavaScript", "C#", "CSS", "Docker"],
     githubUrl: "https://github.com/AgBorchez/ZXGym",
     demoUrl: "https://zxgym-frontend.onrender.com/",
-    image: "/CapturaZXGYM.png",
+    image: "CapturaZXGYM.png",
   },
   {
     title: "TBot",
